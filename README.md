@@ -2,7 +2,7 @@
 
 # Boltr Core (Factory)
 
-In-depth documentation on BoltrSwap is available at [docs.boltrswap.com](https://docs.boltrswap.com/).
+Documentation on BoltrSwap is available at [docs.boltrswap.com](https://docs.boltrswap.com/).
 
 # Local Development
 
