@@ -1,3 +1,5 @@
+![Boltr Core](https://github.com/boltrswap/Boltr-Core/blob/main/boltrcorev1.jpg)
+
 # Boltr Core (Factory)
 
 In-depth documentation on BoltrSwap is available at [docs.boltrswap.com](https://docs.boltrswap.com/).
